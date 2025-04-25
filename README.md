@@ -21,30 +21,30 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveen-Raj6&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&theme=radical" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-Raj6&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📈 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen-Raj6&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌱 Contributions Graph
 
-<p align="center">
-  <img src="https://github-contribution-graph.ezra.codes/api?username=yourusername&theme=radical" alt="Contributions Graph"/>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveen-Raj6&theme=radical" alt="GitHub Contributions Graph" />
 </p>
