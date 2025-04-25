@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Naveen Raj</h1>
-<h3 align="center">Full Stack Developer | Java & MERN Stack Enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Naveen Raj</h1>
+<h3 align="left">Full Stack Developer | Java & MERN Stack Enthusiast</h3>
 
 ---
 
@@ -46,5 +46,6 @@
 ### 🌱 Contributions Graph
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naveen-Raj6&theme=radical" alt="GitHub Contributions Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naveen-Raj6&theme=radical" alt="Heatmap Productive Time" />
 </p>
+
