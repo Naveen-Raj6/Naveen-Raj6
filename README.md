@@ -1,5 +1,21 @@
 <h1 align="left">Hi 👋, I'm Naveen Raj</h1>
-<h3 align="left">Frontend Developer | Java & MERN Enthusiast</h3>
+<h3 align="left">🚀 MERN Stack Developer | Frontend Focused</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/naveen-raj6" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Naveen-Raj6&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **scalable full-stack web apps** using the **MERN Stack**  
+- 🌱 Constantly learning more about **system design** and **backend optimization**
+- 💬 Ask me about **React**, **MongoDB**, **Express**, **JavaScript**, or **Linux**
+- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/naveen-raj6)
 
 ---
 
@@ -14,7 +30,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -43,9 +59,10 @@
 
 ---
 
-### 🌱 Contributions Graph
+### ⏰ Productive Coding Time
 
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Naveen-Raj6&theme=radical" alt="Heatmap Productive Time" />
 </p>
 
+---
