@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="600" height="350" alt="Mario Coding GIF" />
+</p>
+
+
 <h1 align="left">Hi 👋, I'm Naveen Raj</h1>
-<h3 align="left">🚀 MERN Stack Developer | Frontend Focused</h3>
+<h3 align="left">🚀Software Engineer~MERN Stack Developer | Frontend Focused | Currently Exploring Backend & DevOps</h3>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/naveen-raj6" target="_blank">
@@ -10,12 +15,28 @@
 
 ---
 
-### 👨‍💻 About Me
+🧑‍💻 About Me
 
-- 🔭 I’m currently working on **scalable full-stack web apps** using the **MERN Stack**  
-- 🌱 Constantly learning more about **system design** and **backend optimization**
-- 💬 Ask me about **React**, **MongoDB**, **Express**, **JavaScript**, or **Linux**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/naveen-raj6)
+<p align="left">
+I’m a MERN Stack Developer with a focus on building interactive and responsive user interfaces using React and Redux Toolkit. I am committed to writing clean, maintainable code and optimizing application performance across the stack.
+</p>
+<ul>
+<li>
+🔭 I’m currently focused on scalable full-stack web applications and improving my System Design knowledge.
+</li>
+<li>
+🌱 Constantly expanding my skillset into Backend Development and DevOps principles (AWS, Docker, Kubernetes).
+</li>
+<li>
+💬 Ask me about React, Node.js API Design, Tailwind CSS, or Linux workflows.
+</li>
+<li>
+📫 Contact me at: naveenrajs1812@gmail.com
+</li>
+<li>
+📫 Reach me via [LinkedIn](https://www.linkedin.com/in/naveen-raj6)
+</li>
+</ul>
 
 ---
 
@@ -29,7 +50,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
